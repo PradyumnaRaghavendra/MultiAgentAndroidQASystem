@@ -383,17 +383,7 @@ We used `android_in_the_wild/` dataset (3 videos) to:
 - ✅ **Research-Level Capabilities:** Android-in-the-Wild dataset integration
 - ✅ **Comprehensive JSON Logging:** Structured QA logs and reports
 
----
 
-## 🤝 Contributing
-
-```bash
-# Fork → Code → PR
-```
-
-We welcome contributions, improvements, and bug reports!
-
----
 
 ## 📜 License
 
@@ -401,4 +391,4 @@ We welcome contributions, improvements, and bug reports!
 
 ---
 
-<p align="center"><i>Built with by Pradyumna Raghavendra for the QualGent Coding Challenge</i></p>
+<p align="center"><i>Built by Pradyumna Raghavendra for the QualGent Coding Challenge</i></p>
