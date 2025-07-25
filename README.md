@@ -64,7 +64,6 @@ cd ..
 # Clone Android-in-the-Wild dataset
 git clone https://github.com/google-research/google-research
 cp -r google-research/android_in_the_wild data/
-rm -rf google-research  # Clean up
 ```
 
 ### **Step 4: Configure Environment**
@@ -72,7 +71,7 @@ rm -rf google-research  # Clean up
 # Edit .env file to add your API keys:
 # GOOGLE_API_KEY=your_gemini_api_key_here
 # OPENAI_API_KEY=your_openai_key_here
-#ANTHROPIC_API_KEY=your_openai_key_here
+# ANTHROPIC_API_KEY=your_openai_key_here
 ```
 
 
