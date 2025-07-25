@@ -1,0 +1,25 @@
+# Core AI/ML libraries
+openai>=1.0.0
+anthropic>=0.3.0
+google-generativeai>=0.3.0
+
+# Computer vision and image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Logging and utilities
+loguru>=0.7.0
+pydantic>=2.0.0
+
+# Android/UI automation support
+pyautogui>=0.9.54
+screeninfo>=0.8.1
